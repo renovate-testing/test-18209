@@ -6,5 +6,6 @@
   "rebaseWhen": "behind-base-branch",
   "semanticCommits": "enabled",
   "automerge": true,
-  "automergeType": "branch"
+  "automergeType": "branch",
+  "ignoreTests": true
 }
