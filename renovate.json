@@ -1,4 +1,5 @@
 {
+  "baseBranches": ["test"],
   "rebaseWhen": "behind-base-branch",
   "semanticCommits": "enabled",
   "automerge": true,
